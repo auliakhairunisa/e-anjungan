@@ -1,0 +1,10 @@
+/* Write your custom CSS here */
+
+.navbar22 {
+    margin-right: 0;
+    background: url('../images/logo_anjungan@2x.png') center center no-repeat;
+    background-size: cover;
+    width: 40px;
+    height: 40px;
+    margin: 0 auto;
+}
